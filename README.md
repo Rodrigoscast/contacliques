@@ -1,5 +1,5 @@
 
-# 📱 Contador de cliqyes
+# 📱 Contador de cliques
 
 ---
 
